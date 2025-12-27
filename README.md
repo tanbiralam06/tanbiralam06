@@ -47,7 +47,7 @@ Code is only valuable when it **supports a product goal**.
 
 ## 🧱 Flagship Product — ICMS
 <details>
-<summary><strong>▼ Internal Company Management System (ICMS)</strong></summary>
+<summary><strong> Internal Company Management System (ICMS)</strong></summary>
 
 <br/>
 
