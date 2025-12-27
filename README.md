@@ -26,7 +26,7 @@ I enjoy owning products end-to-end — from **architecture → code → deployme
 ## 🧠 Tech I Use to Build Products
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,redis,prisma,tailwind,docker,aws,gcp,git,github,firebase,supabase,gemini&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,redis,prisma,tailwind,docker,aws,gcp,git,github,firebase,supabase,adobeIllustrator,photoshop&perline=8" />
 </p>
 
 ---
