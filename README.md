@@ -46,6 +46,10 @@ Code is only valuable when it **supports a product goal**.
 ---
 
 ## 🧱 Flagship Product — ICMS
+<details>
+<summary><strong>▼ Internal Company Management System (ICMS)</strong></summary>
+
+<br/>
 
 ### 🏢 Internal Company Management System (ICMS)
 
@@ -89,6 +93,7 @@ It centralizes **employee data, attendance, leave approvals, task execution, and
 This system is actively usable internally and built with production-grade structure and scalability in mind.
 
 ---
+</details>
 
 ## 🔗 Connect With Me
 
