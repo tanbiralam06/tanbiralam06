@@ -10,7 +10,6 @@ I care about:
 - Writing **clean, scalable systems**
 - Shipping fast without breaking fundamentals
 
----
 
 ## 🚀 What I Build
 
@@ -21,7 +20,6 @@ I care about:
 
 I enjoy owning products end-to-end — from **architecture → code → deployment**.
 
----
 
 ## 🧠 Tech I Use to Build Products
 
@@ -29,7 +27,6 @@ I enjoy owning products end-to-end — from **architecture → code → deployme
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,redis,prisma,redux,tailwind,docker,aws,gcp,git,github,firebase,supabase,ai,photoshop&perline=8" />
 </p>
 
----
 
 ## 🧩 Product Thinking
 
