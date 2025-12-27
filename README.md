@@ -48,22 +48,23 @@ Code is only valuable when it **supports a product goal**.
 
 ## 🔗 Connect With Me
 
-<p align="left">
+I’m always open to collaborating on products, discussing ideas, or building something impactful.
+
+<p align="center">
   <a href="https://tanbir-tech.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tanbir06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Tanbir_tech" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:social.tanbir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
 
 ## 📊 GitHub Activity
 
