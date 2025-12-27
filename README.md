@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanbir%20Alam&fontSize=48&fontAlignY=35&desc=Startup%20%7C%20Product%20Builder%20%7C%20AI%20%2B%20Full-stack%20Developer&descAlignY=55"/>
 
----
 
 ## 👋 Hi, I’m Tanbir
 
