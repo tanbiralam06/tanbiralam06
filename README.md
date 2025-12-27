@@ -45,13 +45,11 @@ Code is only valuable when it **supports a product goal**.
 
 ---
 
-## 🧱 Flagship Product — ICMS
+## 🧱 Flagship Product
 <details>
 <summary><strong> Internal Company Management System (ICMS)</strong></summary>
 
 <br/>
-
-### 🏢 Internal Company Management System (ICMS)
 
 **ICMS** is a **single-tenant internal operations system** designed and built to manage core company workflows in one place.
 
