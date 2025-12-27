@@ -4,8 +4,6 @@
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanbir%20Alam&fontSize=48&fontAlignY=35&desc=AI%20%2B%20Full-stack%20Developer%20|%20React%20%26%20Node%20Enthusiast&descAlignY=55"/> -->
 
----
-
 ## 👋 Hi there
 
 I'm **Tanbir**, an **AI + Full-stack Developer** passionate about building scalable web applications and experimenting with intelligent systems.  
@@ -45,7 +43,7 @@ I enjoy turning complex problems into clean, usable products.
 
 ---
 
-## 📊 GitHub Stats
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanbiralam06&show_icons=true&theme=transparent&hide_border=true" />
