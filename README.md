@@ -43,7 +43,54 @@ When building, I focus on:
 
 Code is only valuable when it **supports a product goal**.
 
+## 🧱 Flagship Product — ICMS
+
+### 🏢 Internal Company Management System (ICMS)
+
+**ICMS** is a **single-tenant internal operations system** designed and built to manage core company workflows in one place.
+
+It centralizes **employee data, attendance, leave approvals, task execution, and HR operations**, replacing scattered tools like spreadsheets, emails, and manual tracking.
+
 ---
+
+### 🎯 What Problem It Solves
+- Fragmented internal tools for HR, attendance, and task tracking
+- Manual approval workflows and poor visibility
+- Lack of a single source of truth for company operations
+
+---
+
+### 🛠️ What I Built
+- **Role-based system** (Admin, HR, Manager, Employee)
+- **Authentication & authorization** with JWT (access + refresh tokens)
+- **Attendance system** with punch-in/out, corrections, approvals, and reports
+- **Leave management** with balance tracking and multi-step approvals
+- **Task & project management** with priorities, deadlines, comments, and Kanban boards
+- **HR operations** including announcements, assets, holidays, and reports
+
+---
+
+### 🧠 Product & System Design Decisions
+- Single-tenant architecture (intentional for internal company use)
+- Clear separation of concerns (controllers → services → models)
+- Business logic isolated in service layer
+- Role-aware APIs and workflows
+- Designed for real-world edge cases, not ideal flows
+
+---
+
+### 🧩 Tech Stack
+**Frontend:** Next.js (App Router), TypeScript, Tailwind CSS, Zustand, TanStack Query  
+**Backend:** Node.js, Express, MongoDB, JWT  
+**Infrastructure:** Docker-ready, API-first architecture
+
+---
+
+### 👤 My Role
+**End-to-end ownership** — product requirements, system design, backend APIs, frontend dashboard, and overall architecture.
+
+This system is actively usable internally and built with production-grade structure and scalability in mind.
+
 
 ## 🔗 Connect With Me
 
