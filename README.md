@@ -2,7 +2,7 @@
      PROFILE HEADER
 ======================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanbir%20Alam&fontSize=48&fontAlignY=35&desc=AI%20%2B%20Full-stack%20Developer%20|%20React%20%26%20Node%20Enthusiast&descAlignY=55"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tanbir%20Alam&fontSize=48&fontAlignY=35&desc=AI%20%2B%20Full-stack%20Developer%20|%20React%20%26%20Node%20Enthusiast&descAlignY=55"/> -->
 
 ---
 
