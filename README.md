@@ -16,7 +16,7 @@ I care about:
 - 🌐 **Full-stack web products** (React, Next.js, Node.js)
 - 🤖 **AI-powered features** (automation, smart workflows)
 - 🔐 **Backend systems** (auth, APIs, databases)
-- ☁️ **Cloud-native deployments** (Docker, AWS, GCP)
+- ☁️ **Cloud-native deployments** (Docker, AWS, GCP, Git)
 
 I enjoy owning products end-to-end — from **architecture → code → deployment**.
 
