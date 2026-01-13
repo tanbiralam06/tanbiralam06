@@ -112,9 +112,9 @@ I’m always open to collaborating on products, discussing ideas, or building so
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tanbiralam06&theme=transparent&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbiralam06&theme=github-compact&hide_border=true" />
